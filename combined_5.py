@@ -1,23 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 02 14:34:51 2018
-
-@author: agabh
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 01 01:45:21 2018
-
-@author: agabh
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 20 11:25:49 2018
-
-@author: agabh
-"""
 import os
 import glob
 import cv2
