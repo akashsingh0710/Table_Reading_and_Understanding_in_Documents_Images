@@ -6,6 +6,4 @@ The requirement of detection and identification of tables from document images i
 
 To build a solution that can detect tables and its layout in a given documents, then make sense of the information they present. Tables present in documents are often used to compactly communicate important information in rows and columns. To automatically extract this information by digitization of paper documents, the tabular structures need to be identified and the layout and inter-relationship between the table elements need to be reserved for subsequent analysis.
 
-The same is being achieved by me and my friend (https://github.com/agabhi017). We hope you'll like it. :)
-
-
+The same is being achieved by me and Abhishek (https://github.com/agabhi017). We hope you'll like it. :)
