@@ -1,4 +1,4 @@
-## Welcome to Akash's Project on converting Unstructure Data to Structred Data
+## The hackathon project for converting Unstructure Data to Structred Data
 
 Tables and forms are a very common way to organize information in structured documents. Their recognition is fundamental for the recognition of the documents. Indeed, the physical organization of a table or a form gives a lot of information concerning the logical meaning of the content. 
 
