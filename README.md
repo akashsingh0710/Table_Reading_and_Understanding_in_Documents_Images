@@ -1,2 +1,37 @@
-# Table-Reading-Understanding-in-Documents-Images
-Tables and forms are a very common way to organize information in structured documents. Their recognition is fundamental for the recognition of the documents. Indeed, the physical organization of a table or a form gives a lot of information concerning the logical meaning of the content. The requirement of detection and identification of tables from document images is crucial as tables contain important information, and also most of the layout analysis methods fail in the presence of tables in the document image. To build a solution that can detect tables and its layout in a given documents, then make sense of the information they present. Tables present in documents are often used to compactly communicate important information in rows and columns. To automatically extract this information by digitization of paper documents, the tabular structures need to be identified and the layout and inter-relationship between the table elements need to be reserved for subsequent analysis. 
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/akashsingh0710/Table-Reading-Understanding-in-Documents-Images/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akashsingh0710/Table-Reading-Understanding-in-Documents-Images/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
